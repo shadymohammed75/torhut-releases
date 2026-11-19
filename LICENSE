@@ -1,0 +1,64 @@
+Torhut Free License
+Version 1.0, November 2026
+
+Copyright (c) 2026 Shady Abdou. All rights reserved.
+
+Torhut is a free, non-commercial student project. This license lets you use it at no cost.
+It is not an open-source license: the author keeps all rights not granted below.
+
+1. WHAT YOU MAY DO
+   You may download, install and use Torhut (the VS Code extension, its bundled backend and
+   its documentation, together "the Software") free of charge, on any number of your own
+   devices, for personal, educational and commercial work. The code you write with the
+   Software is yours; this license claims nothing in it.
+
+2. WHAT YOU MAY NOT DO
+   Unless the author agrees in writing, you may not:
+   a) sell, rent, lease or sublicense the Software, or charge anyone for access to it;
+   b) redistribute the Software or modified copies of it, including publishing it to an
+      extension marketplace or registry. Sharing a link to the official download page
+      (https://github.com/shadymohammed75/torhut-releases or the Software's official
+      VS Code Marketplace / Open VSX listing) is always allowed;
+   c) remove or change copyright notices, this license, or the name "Torhut" and its logo
+      in a way that suggests the Software comes from someone else;
+   d) use the Software's code, or substantial parts of it, to build or train a competing
+      product.
+   Nothing in this section limits what the law allows you to do regardless of a license
+   (for example, decompiling where needed for interoperability).
+
+3. NO PRICE, NO OBLIGATIONS
+   The Software is given to you free of charge, as a gift. There is no support, maintenance
+   or update obligation. The author may change these terms for future versions, or stop
+   offering the Software, at any time. A version you already received stays under the
+   license it came with.
+
+4. YOUR RESPONSIBILITY
+   The Software sends parts of your project to AI providers you choose (for example
+   OpenRouter or Anthropic) using your own API key, under those providers' terms. You
+   pay those providers directly and are responsible for your key, your spending limits,
+   which data you allow it to send, reviewing changes before you apply them, and keeping
+   backups of your work.
+
+5. NO WARRANTY
+   The Software is provided "as is", without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a
+   particular purpose and non-infringement. AI output can be wrong, insecure or
+   incomplete.
+
+6. LIMITATION OF LIABILITY
+   To the maximum extent permitted by applicable law, the author is not liable for any
+   damages arising from the use of, or inability to use, the Software, including loss of
+   data, code, profit or API credit. Where German law applies, the author is liable only for
+   intent and gross negligence (Section 521 BGB, the rule for gifts); liability for injury
+   to life, body or health and under the Product Liability Act (Produkthaftungsgesetz)
+   remains as the law requires.
+
+7. ENDING THE LICENSE
+   This license ends automatically if you break it. You must then stop using and delete
+   the Software.
+
+8. LAW
+   German law applies, excluding the UN Convention on Contracts for the International Sale
+   of Goods. If a part of this license is invalid, the rest stays valid.
+
+Contact: open an issue at https://github.com/shadymohammed75/torhut-releases/issues
